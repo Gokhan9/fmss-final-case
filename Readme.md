@@ -39,11 +39,7 @@ kullanılmıştır. Ödeme akışlarını asenkron ve sıralı bir hale getirebi
 - Swagger
 - Readme
 
-![swagger.pdf](https://github.com/user-attachments/files/16325669/swagger.pdf)
-![eureka.pdf](https://github.com/user-attachments/files/16325670/eureka.pdf)
-![rabbitmq.pdf](https://github.com/user-attachments/files/16325671/rabbitmq.pdf)
-![productdb.pdf](https://github.com/user-attachments/files/16325672/productdb.pdf)
-
+![2024-07-21 (1)](https://github.com/user-attachments/assets/989ff9e3-927b-42d1-8033-56d12aa68549)
 
 
 
