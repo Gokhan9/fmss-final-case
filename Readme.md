@@ -39,6 +39,7 @@ kullanılmıştır. Ödeme akışlarını asenkron ve sıralı bir hale getirebi
 - Swagger
 - Readme
 
+**Eureka**
 ![2024-07-21 (1)](https://github.com/user-attachments/assets/989ff9e3-927b-42d1-8033-56d12aa68549)
 
 ![2024-07-21 (7)](https://github.com/user-attachments/assets/dc6b8def-0ba4-4dee-84b7-15825d231f73)
