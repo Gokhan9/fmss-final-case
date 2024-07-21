@@ -1,0 +1,29 @@
+version: "3.2"
+
+services:
+  # ===================================================================================================================
+
+  postgres:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: localpostgres
+      POSTGRES_PASSWORD: localpostgressecret
+    ports:
+      - "5432:5432"
+
+  # ===================================================================================================================
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: 'rabbitmq'
+    environment:
+      RABBITMQ_USER: localrabbit
+      RABBITMQ_PASSWORD: localrabbitsecret
+    ports:
+      - 5672:5672
+      - 15672:15672
+    volumes:
+      - ~/.docker-conf/rabbitmq/data/:/var/lib/rabbitmq/
+      - ~/.docker-conf/rabbitmq/log/:/var/log/rabbitmq
+
+  # ===================================================================================================================
