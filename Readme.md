@@ -45,8 +45,9 @@ kullanılmıştır. Ödeme akışlarını asenkron ve sıralı bir hale getirebi
 **RabbitMQ**
 ![2024-07-21 (7)](https://github.com/user-attachments/assets/dc6b8def-0ba4-4dee-84b7-15825d231f73)
 
-
+**Swagger**
 ![2024-07-21 (5)](https://github.com/user-attachments/assets/5e2f2bf7-0cd6-494e-8f98-4da73e5b1109)
 
+**ProductDB**
 ![2024-07-21 (4)](https://github.com/user-attachments/assets/c8f08952-8b93-4514-9e8d-af1651969936)
 
